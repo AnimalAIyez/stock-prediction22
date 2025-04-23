@@ -9,6 +9,13 @@ python-decouple = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
 djangorestframework-simplejwt = "*"
+yfinance = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+scikit-learn = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
